@@ -11,22 +11,22 @@ The dataset used for this analysis represents email communication among employee
 
 **Objectives**
 
-Identify Key Individuals: Use centrality measures to identify the most influential people in the email network.
-Understand Departmental Roles: Determine if key individuals are concentrated in specific departments and examine the distribution of influence across departments.
-Analyze Cross-Department Communication: Investigate whether key individuals bridge multiple departments or connect people within their own department.
+1. Identify Key Individuals: Use centrality measures to identify the most influential people in the email network.
+2. Understand Departmental Roles: Determine if key individuals are concentrated in specific departments and examine the distribution of influence across departments.
+3. Analyze Cross-Department Communication: Investigate whether key individuals bridge multiple departments or connect people within their own department.
 
 **Key Concepts**
 
-Social Network Analysis (SNA): A method used to analyze the structure of relationships within a network, focusing on the connections between individuals and the flow of information.
-Centrality Measures: Metrics used to identify the most influential or central nodes (individuals) in a network, such as degree centrality, betweenness centrality, and closeness centrality.
-Departmental Connectivity: Understanding how departments interact with each other within the organization and identifying individuals who facilitate cross-departmental communication.
+1. Social Network Analysis (SNA): A method used to analyze the structure of relationships within a network, focusing on the connections between individuals and the flow of information.
+2. Centrality Measures: Metrics used to identify the most influential or central nodes (individuals) in a network, such as degree centrality, betweenness centrality, and closeness centrality.
+3. Departmental Connectivity: Understanding how departments interact with each other within the organization and identifying individuals who facilitate cross-departmental communication.
 
 **Methodology**
 
-Data Preprocessing: The dataset was cleaned and prepared for analysis, including the removal of unnecessary data and the conversion of the network into a graph structure.
-Network Construction: The email communication data was used to build a directed network where nodes represent individuals and edges represent email exchanges.
-Centrality Analysis: Various centrality measures were computed to identify key individuals and their roles within the network.
-Visualization: The network was visualized to reveal the structure and key individuals, and departmental roles were examined based on the network's topology.
+1. Data Preprocessing: The dataset was cleaned and prepared for analysis, including the removal of unnecessary data and the conversion of the network into a graph structure.
+2. Network Construction: The email communication data was used to build a directed network where nodes represent individuals and edges represent email exchanges.
+3. Centrality Analysis: Various centrality measures were computed to identify key individuals and their roles within the network.
+4. Visualization: The network was visualized to reveal the structure and key individuals, and departmental roles were examined based on the network's topology.
 
 **Results & Insights**
 
