@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project utilizes Social Network Analysis (SNA) to explore an email communication network from a large European research institution, using the email-Eu-core dataset ([Paranjape, Benson, & Leskovec, 2014](https://snap.stanford.edu/data/email-Eu-core.html)). The goal is to identify key individuals, analyze departmental roles, and understand cross-department communication patterns within the organization.
+This project utilizes Social Network Analysis (SNA) to explore an email communication network from a large European research institution, using the email-Eu-core dataset ([Paranjape, Benson, & Leskovec, 2014]). The goal is to identify key individuals, analyze departmental roles, and understand cross-department communication patterns within the organization.
 
 Paranjape, A., Benson, A. R., & Leskovec, J. (2014). email-Eu-core network [Data set]. Stanford Network Analysis Project. https://snap.stanford.edu/data/email-Eu-core.html
 
